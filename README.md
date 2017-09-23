@@ -1,6 +1,6 @@
 # Pong_PvE
 
-Unity project folder
+Unity project folder.
 
 Player presses `W` `S` or `↑` `↓` to control the left paddle versus computer on the right.
 
